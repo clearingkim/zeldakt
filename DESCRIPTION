@@ -1,0 +1,10 @@
+Package: zeldakt
+Type: Package
+Title: Ask Sangyeon what game does he play
+Version: 0.1.0
+Author: Sangyeon Kim <umaro4321@gmail.com>
+Maintainer: Sangyeon Kim <umaro4321@gmail.com>
+Description: What game do you play?
+Encoding: UTF-8
+LazyData: TRUE
+RoxygenNote: 7.1.1
