@@ -9,6 +9,7 @@ Encoding: UTF-8
 LazyData: TRUE
 RoxygenNote: 7.1.1
 Depends: 
+    R (>= 2.10),
     tidyverse
 Imports: 
     geosphere,
