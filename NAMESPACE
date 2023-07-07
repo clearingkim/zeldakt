@@ -2,4 +2,5 @@
 
 export(alpha_pred_dist)
 export(four_pred_dist)
+export(pred_dist)
 export(wt_vid)
